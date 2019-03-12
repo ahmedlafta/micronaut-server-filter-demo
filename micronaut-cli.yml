@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.server.filter.demo
+---
+testFramework: spock
+sourceLanguage: java

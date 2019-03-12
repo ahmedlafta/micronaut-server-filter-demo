@@ -1,0 +1,7 @@
+micronaut:
+    application:
+        name: micronaut-server-filter-demo
+    http:
+        services:
+            library:
+                url: http://localhost:1234
